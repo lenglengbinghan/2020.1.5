@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Karting/Scenes/IntroMenu.unity
+    guid: d29260d8d84c94bd7ac95807b3da99d4
+  - enabled: 0
+    path: Assets/Karting/Scenes/MainScene.unity
+    guid: 92786e23da2af4a4f8803aaf44c47121
+  - enabled: 0
+    path: Assets/Karting/Scenes/LoseScene.unity
+    guid: 9c449e01147824b419cda406398fb2e7
+  - enabled: 0
+    path: Assets/Karting/Scenes/WinScene.unity
+    guid: d6801f2e59f75ee4b919cf5da4e48e3b
+  - enabled: 1
+    path: Assets/Karting/Scenes/1KartClassic_TrainingDemo.unity
+    guid: 070d4c0e5ff8bf049a18ae57f752abf6
+  - enabled: 1
+    path: Assets/Karting/Scenes/WinScene1.unity
+    guid: 670d1e844ce51f3408704df28aea887f
+  - enabled: 1
+    path: Assets/Karting/Scenes/2Kart.unity
+    guid: 59ea2a2811d3d66448e706b2be448972
+  - enabled: 1
+    path: Assets/Karting/Scenes/WinScene2.unity
+    guid: cf1ba4ed11ffe3a4d9b4eca1accf7521
+  - enabled: 1
+    path: Assets/Karting/Scenes/LoseScene1.unity
+    guid: d51b432b9cd935543b7cec04873c7d3e
+  - enabled: 1
+    path: Assets/Karting/Scenes/LoseScene2.unity
+    guid: 2c7e446f0ec9bad48b0e5ae56c45cc87
+  - enabled: 1
+    path: Assets/Karting/Scenes/LoseScene3.unity
+    guid: 73e26812e02413746802d8aee8895343
+  - enabled: 1
+    path: Assets/Karting/Scenes/3Kart.unity
+    guid: 4a4d95cf3071d5341960429e4d831ebc
+  - enabled: 1
+    path: Assets/Karting/Scenes/WinScene3.unity
+    guid: 9c134db2ffa48eb46b944b36129283fb
+  m_configObjects: {}
